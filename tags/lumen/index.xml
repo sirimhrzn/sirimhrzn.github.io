@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lumen on Siri</title>
+    <link>http://localhost:1313/tags/lumen/</link>
+    <description>Recent content in Lumen on Siri</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Nov 2024 19:11:12 +0545</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/lumen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Part 0: Integrating Nix for CI, Package Management ft. Laravel</title>
+      <link>http://localhost:1313/posts/nix-laravel-01/</link>
+      <pubDate>Fri, 01 Nov 2024 19:11:12 +0545</pubDate>
+      <guid>http://localhost:1313/posts/nix-laravel-01/</guid>
+      <description>I would like to keep things short and simple so if you do not know about nix i will be listing couple resources to follow and these are the things I will be achieving by the end of this series.&#xA;Package Laravel using nix Build container image with nix Setup gitlab-runner and run CI with nix Setup a binary cache server Simple Integration Test using testers.runNixOSTest Why nix? I want my production to be running the same runtime dependencies I used during development.</description>
+    </item>
+  </channel>
+</rss>
